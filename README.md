@@ -1,4 +1,7 @@
-# Este es el archivo README.md
+<h2 align="center"> # README </h2>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Estatus-En%20desarrollo-brightgreen?style=flat&color=00ff00">
+</p>
 
 Contiene sintaxis markdown y se usa para:
 
